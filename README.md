@@ -69,7 +69,7 @@ app/src/main/java/queiroz/larissa/projetointegrador/
 
 1. Clone o repositório e abra a pasta raiz no Android Studio:
    ```bash
-   git clone https://github.com/larissa-bianca/projetoIntegrador.git
+   git clone https://github.com/erick-schultz/Aplicativo-Caixa-de-Remedios.git
    ```
 2. Aguarde a sincronização do Gradle e compile/instale o app no celular.
 3. Conecte o celular na mesma rede Wi-Fi do ESP32.
